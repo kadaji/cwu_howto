@@ -2,6 +2,6 @@
 
 ### Getting Started
 
-- [Student Registration](/getting_started/registration)
+- [Student Registration](./getting_started/registration)
 
 ### Portals
