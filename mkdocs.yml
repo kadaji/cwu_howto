@@ -1,0 +1,8 @@
+site_name: CWU Howto
+
+nav:
+    - Home: index.md
+    - Portals: 
+      - High School Administrator: portals/highschool_admin.md
+    - Getting Started:
+      - Student Registration: getting_started/registration.md
