@@ -52,3 +52,6 @@ The system can be configured to remind students who have not completed their app
 #### Reminders to School Counselors
 
 The system can be configured to send periodic email digests to School counselors asking them to complete the student recommendation. The options can be configured in *Settings -> Students -> School Counselor Registration Template*
+
+
+![Screenshot](/img/sample.png)

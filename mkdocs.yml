@@ -6,3 +6,7 @@ nav:
       - High School Administrator: portals/highschool_admin.md
     - Getting Started:
       - Student Registration: getting_started/registration.md
+
+theme:
+    name: mkdocs
+    nav_style: dark
